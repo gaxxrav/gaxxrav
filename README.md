@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=g-mav" alt="g-mav" /></a> </p>
 
-- 📈 I’m currently working on **Machine Learning Projects** with a vision
+- 📈 Currently working on **Machine Learning Projects** with a vision
 
-- ∞ I’m looking to collaborate on **crafting scalable applications with boundless possibilities**
+- ∞ Looking to collaborate on **crafting scalable applications with boundless possibilities**
 
-- ⏰ I’m also **conquering DSA like it’s second nature**
+- ⏰ Also **conquering DSA like it’s second nature**
 
 - 🤖 **Constantly learning, endlessly improving**
 
