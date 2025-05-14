@@ -1,13 +1,9 @@
 <h1 align="center">Hey! I'm Gaurav Murali</h1>
 <h3 align="center">A creative developer and Machine Learning Enthusiast.</h3>
 
-<h3 align="center">I love music! Here's what I've been listening to lately.</h3>
+<h4 align="left">I love music! Here's what I've been listening to lately.</h4>
 
-<div style="display: flex; justify-content: center; width: 100%;">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fkbd6lgsdhhsnlvjtjkohhhg3y&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fkbd6lgsdhhsnlvjtjkohhhg3y&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=false&bar_color=ff6a00&bar_color_cover=true" alt="Spotify GitHub Profile">
-  </a>
-</div>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fkbd6lgsdhhsnlvjtjkohhhg3y&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=false&bar_color=ff6a00&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31fkbd6lgsdhhsnlvjtjkohhhg3y&redirect=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g-mav&label=Profile%20views&color=0e75b6&style=flat" alt="g-mav" /> </p>
 
