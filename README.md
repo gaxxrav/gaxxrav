@@ -34,7 +34,7 @@ React.js • React Native • TypeScript • JavaScript • HTML5 • CSS3 • B
 ```
 ### Backend
 ```bash
-Node.js • Express.js • Python • Java • C++ • API integration
+Node.js • Express.js • Python • Java • C++ • API integration • GDScript
 ```
 
 ### Database
@@ -47,14 +47,14 @@ MongoDB • PostgreSQL • MySQL • Redis
 • AWS • Google Cloud • Firebase
 ```
 
-### Tools/devops
+### Other Tools (Devops, Game Engines, Design Tools)
 ```bash
-Git • Linux • Bash • Figma • Mailtrap • Auth0 • Blender • Godot Game Engine - GDScript
+Git • Linux • Bash • Figma • Mailtrap • Auth0 • Blender • Godot (Game Engine)
 ```
 
 ### Data science
 ```
-TensorFlow • Pandas • Scikit-learn
+TensorFlow • Pandas • Scikit-learn • OpenCV
 ```
 
 <!-- <h3 align="left">Languages and Tools:</h3>
