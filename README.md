@@ -14,11 +14,8 @@
 </p>
 
 - 📈 Currently working on **Machine Learning Projects** with a vision
-
 - ∞ Looking to collaborate on **crafting scalable applications with boundless possibilities**
-
-- ⏰ Also **conquering DSA like it’s second nature**
-  
+- ⊗ Also **interested in learning new Algorithms**
 - 🤖 **Constantly learning, endlessly improving**
 
 - 📩 Reach out: **gaurav.murali3@gmail.com**
