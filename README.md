@@ -7,7 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g-mav&label=Profile%20views&color=0e75b6&style=flat" alt="g-mav" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=g-mav" alt="g-mav" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=g-mav&title=MultiLanguage,Commits,Repositories,Experience,PullRequest,Issues" alt="g-mav trophies" />
+  </a>
+</p>
 
 - 📈 Currently working on **Machine Learning Projects** with a vision
 
