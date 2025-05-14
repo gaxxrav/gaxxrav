@@ -13,7 +13,7 @@
   </a>
 </p>
 
-- 📈 Currently working on **Machine Learning and Computer Vision Projects** with a vision.
+- 📈 Currently working on **Machine Learning and Computer Vision Projects.**
 - ∞ Looking to collaborate on **crafting scalable applications with boundless possibilities.**
 - ⊗ Also interested in learning **efficient Algorithms.**
 - 🤖 **Constantly learning, endlessly improving.**
