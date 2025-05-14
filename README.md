@@ -13,10 +13,10 @@
   </a>
 </p>
 
-- 📈 Currently working on **Machine Learning Projects** with a vision
-- ∞ Looking to collaborate on **crafting scalable applications with boundless possibilities**
-- ⊗ Also **interested in learning new Algorithms**
-- 🤖 **Constantly learning, endlessly improving**
+- 📈 Currently working on **Machine Learning and Computer Vision Projects** with a vision.
+- ∞ Looking to collaborate on **crafting scalable applications with boundless possibilities.**
+- ⊗ Also interested in learning **efficient Algorithms.**
+- 🤖 **Constantly learning, endlessly improving.**
 
 - 📩 Reach out: **gaurav.murali3@gmail.com**
 
@@ -34,22 +34,22 @@ React.js • React Native • TypeScript • JavaScript • HTML5 • CSS3 • B
 ```
 ### Backend
 ```bash
-Node.js • Express.js • Python • Java • C++
+Node.js • Express.js • Python • Java • C++ • API integration
 ```
 
 ### Database
 ```bash
-MongoDB • PostgreSQL • MySQL
+MongoDB • PostgreSQL • MySQL • Redis
 ```
 
 ### Cloud
 ```bash
-Docker • Kubernetes • AWS • Google Cloud • Firebase
+• AWS • Google Cloud • Firebase
 ```
 
-### Tools
+### Tools/devops
 ```bash
-Git • Linux • Bash • Figma
+Git • Linux • Bash • Figma • Mailtrap • Auth0 • Blender • Godot Game Engine - GDScript
 ```
 
 ### Data science
