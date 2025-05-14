@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Murali</h1>
 <h3 align="center">A creative software developer and Machine Learning Enthusiast.</h3>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fkbd6lgsdhhsnlvjtjkohhhg3y&cover_image=true&theme=compact&show_offline=false&background_color=ffffff&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31fkbd6lgsdhhsnlvjtjkohhhg3y&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fkbd6lgsdhhsnlvjtjkohhhg3y&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=true&bar_color=ff6a00&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31fkbd6lgsdhhsnlvjtjkohhhg3y&redirect=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g-mav&label=Profile%20views&color=0e75b6&style=flat" alt="g-mav" /> </p>
 
