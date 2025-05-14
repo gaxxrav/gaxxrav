@@ -5,6 +5,8 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fkbd6lgsdhhsnlvjtjkohhhg3y&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=false&bar_color=ff6a00&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31fkbd6lgsdhhsnlvjtjkohhhg3y&redirect=true)
 
+![tracks](https://spotify-recently-played-readme.vercel.app/api?user=31fkbd6lgsdhhsnlvjtjkohhhg3y&count={3})
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g-mav&label=Profile%20views&color=0e75b6&style=flat" alt="g-mav" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=g-mav" alt="g-mav" /></a> </p>
