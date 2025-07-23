@@ -28,33 +28,33 @@
 
 ## 🛠️ Domain of Expertise
 
-### Frontend Domain
+### Languages
 ```bash
-React.js • React Native • TypeScript • JavaScript • HTML5 • CSS3 • Bootstrap
+Python • JavaScript • TypeScript • Java • C++ • GDScript
 ```
-### Backend
+### Frameworks
 ```bash
-Node.js • Express.js • Python • Java • C++ • API integration • GDScript
+React.js • React Native • Django • Express.js • Bootstrap • TensorFlow • Scikit-learn • OpenCV
 ```
 
-### Database
-```bash
+### Databases
+```
 MongoDB • PostgreSQL • MySQL • Redis
 ```
 
-### Cloud
+### Cloud & Devops
 ```bash
-• AWS • Google Cloud • Firebase
+AWS • GCP • Firebase • Linux
 ```
 
-### Other Tools (Devops, Game Engines, Design Tools)
+### Tools
 ```bash
-Git • Linux • Bash • Figma • Mailtrap • Auth0 • Blender • Godot (Game Engine)
+Git • Bash • Figma • Blender • Mailtrap • Auth0
 ```
 
-### Data science
-```
-TensorFlow • Pandas • Scikit-learn • OpenCV
+### Game Engines
+```bash
+• Godot
 ```
 
 <!-- <h3 align="left">Languages and Tools:</h3>
