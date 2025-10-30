@@ -13,10 +13,10 @@
   </a>
 </p>
 
-- 📈 Currently working on **Machine Learning and Computer Vision Projects.**
-- ∞ Looking to collaborate on **crafting scalable applications with boundless possibilities.**
-- ⊗ Also interested in learning **efficient Algorithms.**
-- 🤖 **Constantly learning, endlessly improving.**
+- Currently working on **Machine Learning and Computer Vision Projects.**
+- Looking to collaborate on **building practical and scalable applications.**
+- Interested in improving my understanding of algorithms and their real-world use.
+- **Learning and working to get better every day..**
 
 - 📩 Reach out: **gaurav.murali3@gmail.com**
 
