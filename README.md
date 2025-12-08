@@ -1,4 +1,4 @@
-<h1 align="left">Heya! I'm Gaurav</h1>
+<h1 align="left">Heya!👋 😊</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaxxrav&label=Profile%20views&color=0e75b6&style=flat" alt="gaxxrav" /> </p>
 
