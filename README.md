@@ -1,5 +1,5 @@
-<h1 align="center">Heya! I'm Gaurav</h1>
-<h3 align="center">A creative developer and problem-solving enthusiast.</h3>
+<h1 align="left">Heya! I'm Gaurav</h1>
+<h3 align="left">A creative developer and problem-solving enthusiast.</h3>
 
 <h4 align="left">I love music! Here's what I've been listening to lately.</h4>
 
