@@ -7,12 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaxxrav&label=Profile%20views&color=0e75b6&style=flat" alt="gaxxrav" /> </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gaxxrav&title=MultiLanguage,Commits,Repositories,Experience,PullRequest,Issues" alt="gaxxrav-trophies" />
-  </a>
-</p>
-
 - Currently working on **Machine Learning and Computer Vision Projects.**
 - Looking to collaborate on **building practical and scalable applications.**
 - Interested in improving my understanding of algorithms and their real-world use.
