@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaxxrav&label=Profile%20views&color=0e75b6&style=flat" alt="gaxxrav" /> </p>
 
-- Currently working on **Machine Learning and Computer Vision Projects.**
-- Looking to collaborate on **building practical and scalable applications.**
-- Interested in improving my understanding of algorithms and their real-world use.
+- Working on **Machine Learning and Computer Vision Projects.**
+- Looking to collaborate on building **practical and scalable applications.**
+- Interested in exploring algorithms and their real world use.
 
 - 📩 Reach out: **gaurav.murali3@gmail.com**
 
