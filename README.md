@@ -8,6 +8,6 @@
 
 - 📩 Reach out: **gaurav.murali3@gmail.com**
 
-<h4 align="left">I love music! Here's what I've been listening to lately.</h4>
+<h4 align="left">I love music! This is my most recent listen.</h4>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fkbd6lgsdhhsnlvjtjkohhhg3y&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=false&bar_color=ff6a00&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31fkbd6lgsdhhsnlvjtjkohhhg3y&redirect=true)
