@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaxxrav&label=Profile%20views&color=0e75b6&style=flat" alt="gaxxrav" /> </p>
 
-- Working on **Machine Learning and Computer Vision Projects.**
+- Working on **Understanding and Practicing System Design**
 - Looking to collaborate on building **practical and scalable applications.**
 - Interested in exploring algorithms and their real world use.
 
