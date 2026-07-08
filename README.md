@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaxxrav&label=Profile%20views&color=0e75b6&style=flat" alt="gaxxrav" /> </p>
 
-- Working on understanding and practicing System Design Architecture
+- Understanding and practicing System Design Architecture
 - Looking to collaborate on building scalable solutions
 - Love exploring algorithms as tools to solve complex problems
 
