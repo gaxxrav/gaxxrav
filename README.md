@@ -6,7 +6,7 @@
 - Looking to collaborate on building scalable solutions
 - Love exploring algorithms as tools to solve complex problems
 
-- Reach out: **gaurav.murali3@gmail.com**
+- Lets connect! (You can find my links on my profile.)
 
 <h4 align="left">PS: I love music! This is my most recent listen.</h4>
 
